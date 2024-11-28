@@ -1,0 +1,37 @@
+## Application for senior cloud engineer 
+Name: Anya Sharma
+Phone number: +1-212-456-7890
+Email: anya.sharma@email.com
+SAP ID: D564857
+
+**Summary**
+
+A highly motivated and results-oriented Kubernetes engineer with 5+ years of experience in designing, deploying, and managing complex containerized applications at scale.  At the age of 28, I possess a proven track record of successfully architecting and implementing robust, scalable, and highly available Kubernetes clusters across diverse cloud environments (AWS, GCP, Azure). My expertise extends beyond core Kubernetes functionalities to encompass advanced concepts like service meshes (Istio, Linkerd), CI/CD pipelines (Jenkins, GitLab CI), and infrastructure-as-code (Terraform, Ansible).  I am passionate about leveraging automation to streamline workflows, enhance operational efficiency, and ensure system reliability.
+
+My experience includes:
+
+* **Designing and implementing Kubernetes clusters:**  Successfully designed and deployed production-ready Kubernetes clusters for various applications, optimizing resource utilization and ensuring high availability through strategies like HAProxy, load balancing, and autoscaling.  This involved meticulous planning, considering factors like network topology, security policies, and resource allocation to meet specific application requirements.  I have experience with both on-premise and cloud-based deployments.
+
+* **Containerization and Orchestration:**  Proficient in Docker containerization, image building, and management.
+
+* **CI/CD pipelines:** Designed CI/CD pipelines and processes for the entire unit. Lead a team of three junior developers and interns that implemented the pipelines using Jenkins and GitLab CI.
+
+**Work Experience**
+
+* **Senior Cloud Engineer:** Salesforce, 2022-2024, San Francisco, USA
+* **Cloud Engineer:** Tudip Technologies Pvt. Ltd., 2020-2022, Pimpri-Chinchwad, India
+* **Associate Cloud Engineer:** Tata Consultancy Services., 2018-2020, Bangalore, India
+
+**Skills**
+
+* **Kubernetes:**  Deployment, StatefulSets, DaemonSets, Jobs, CronJobs, Ingress, Service Mesh (Istio/Linkerd), Helm, Kustomize, Operators, RBAC, Network Policies, Resource Quotas, Pod Security Policies (PSP)/Pod Security Admission (PSA)
+* **Containerization:** Docker, Podman, Containerd
+* **Cloud Platforms:** AWS (EKS), Google Cloud Platform (GKE), Azure Kubernetes Service (AKS) – experience with at least two preferred
+* **CI/CD:** Jenkins, GitLab CI, GitHub Actions, Argo CD
+* **Programming Languages:** Bash, Python, Go
+
+
+**Education**
+
+* **Master of Science:** 2016-2018 Indian Institute of Science (IISC) - Bangalore
+* **Bachelor of Science:** 2014-2016 Indian Institute of Technology (IIT) - Delhi
