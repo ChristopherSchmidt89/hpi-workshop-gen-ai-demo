@@ -1,0 +1,73 @@
+# Application
+
+# Info
+* Name: Alex Wagner
+* Location: Berlin, Germany
+* Contact: alex.wagner.dev@email.com | GitHub: github.com/alexwagnerdev | LinkedIn: linkedin.com/in/alexwagnerdev
+* Nationality: German citizenship
+* Union: IG Metall
+
+## Summary
+I am a results-driven Mid-Level TypeScript Developer. I am proficient in working with cross-functional teams to deliver efficient, well-documented, and high-performing code. I hate you if you are incompetent. Strong background in both front-end and back-end development, specializing in React, Node.js, and API integration. Passionate about problem-solving and continuously improving development processes.
+
+
+## Skills
+* Languages: TypeScript, JavaScript (ES6+), HTML5, CSS3, SASS
+* Frameworks/Libraries: React, Node.js, Angular, Vue.js
+* Tools: Webpack, Babel, ESLint, Prettier, Git, GitHub, GitLab
+* APIs: RESTful API, GraphQL, WebSocket
+* Testing: Jest, Mocha, Cypress, Postman
+* Agile Practices: Scrum, Kanban, Jira, Confluence
+* Other: Docker, AWS, GCP, Continuous Integration (CI/CD), TDD
+
+## Professional Experience
+
+### NexGen Systems – Remote/Berlin | June 2021 – Present
+Lead the development of dynamic web applications using TypeScript and React, collaborating with product managers and designers to deliver user-friendly, scalable solutions.
+Improved the performance of a flagship application by optimizing code, resulting in a 30% increase in page load speed.
+Integrated third-party APIs and services, ensuring seamless interaction with back-end systems and enhancing application functionality.
+Spearheaded code reviews, promoting clean code practices and improving code quality across the team.
+Worked in an Agile/Scrum environment, managing sprint tasks and delivering features within deadlines while maintaining high standards.
+
+#### Key Achievements:
+Reduced overall technical debt by refactoring legacy JavaScript code into TypeScript, improving maintainability and developer productivity.
+Implemented a custom reusable component library using React and TypeScript, increasing development efficiency by 25%.
+Played a pivotal role in adopting server-side TypeScript with Node.js to build APIs, improving the back-end structure and reducing latency by 20%.
+Full Stack Developer
+
+### ByteStream Tech – Berlin, Germany | March 2019 – May 2021
+Developed and maintained full-stack web applications using React and Node.js, focusing on seamless front-end and back-end integration.
+Designed and implemented RESTful APIs, facilitating smooth data communication between client and server.
+Collaborated with DevOps to deploy applications using Docker and Kubernetes on AWS, ensuring a stable and scalable production environment.
+Led efforts in testing and debugging, employing Jest and Mocha to build robust testing suites for new and existing features.
+
+#### Key Achievements:
+Built a web-based dashboard for monitoring client systems, which reduced customer service inquiries by 40%.
+Migrated a large-scale application from Angular to React, improving code maintainability and reducing load times by 15%.
+Played a critical role in optimizing the database interactions, reducing API response times by 25%.
+Junior Web Developer
+TechSolutions – Berlin, Germany | January 2017 – February 2019
+
+Contributed to front-end and back-end development, collaborating with senior developers on various projects.
+Wrote reusable, modular code using JavaScript and TypeScript, ensuring scalability and maintainability across applications.
+Assisted in the development and maintenance of build tools (Webpack, Babel) and automated testing suites.
+Key Achievements:
+
+Led the integration of new third-party services, resulting in enhanced user functionality and increased client engagement.
+Introduced TDD practices into the development workflow, increasing code coverage by 50% and reducing production bugs.
+
+## Education
+* Bachelor of Science in Computer Science
+* Technical University of Berlin | 2016
+
+## Certifications
+* AWS Certified Developer – Associate | Amazon Web Services | 2022
+* Certified JavaScript Developer | W3Schools | 2020
+* React Developer Nanodegree | Udacity | 2019
+
+## Projects
+* TaskFlow (GitHub: github.com/alexwagnerdev/taskflow)
+  * A task management app built with React and TypeScript, using Node.js for the back-end. The app integrates RESTful APIs and WebSockets for real-time updates.
+
+* ShopEasy (GitHub: github.com/alexwagnerdev/shopeasy)
+  * An e-commerce platform built with Angular and TypeScript. It features API integration for product listing and payment processing, and uses AWS for hosting.
