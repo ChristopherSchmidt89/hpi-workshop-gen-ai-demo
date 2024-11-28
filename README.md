@@ -1,11 +1,18 @@
 # HPI - SAP GenAI Workshop
 An afternoon at SAP Berlin and the SAP AI Core team.
 
-Get to know SAP and learn about the company.
+* Get to know SAP and learn about the company.
 
-Take part in a coding session, interacting with a range of current LLMs (OpenAI, Google, Meta, etc.), and supporting features made available by SAP.
+* Take part in a coding session, interacting with a range of current LLMs (OpenAI, Google, Meta, etc.), and supporting features made available by SAP.
 
-Have the opportunity to chat with SAP colleagues to learn more about daily work at SAP from an employee's perspective.
+* An opportunity to chat with SAP colleagues to learn more about daily work at SAP from an employee's perspective.
+
+## Technologies
+
+* Python
+* Jupyter Notebooks
+* Large Language Models (accessed through SAP)
+* SAP LLM Orchestration Service
 
 ## Agenda
 
